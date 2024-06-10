@@ -1,0 +1,49 @@
+{
+    "furniture":[
+    {   "id":1,
+        "imagen":"https://ro-garzon.github.io/assets/desk.jpg",
+        "title":"Escritorio de melamina",
+        "category":"escritorio"
+    },
+    {   "id":2,
+        "imagen":"https://ro-garzon.github.io/assets/estanteria.jpg",
+        "title":"Estanteria de pino",
+        "category":"estanteria"
+    },
+    {   "id":3,
+        "imagen":"https://ro-garzon.github.io/assets/banca.jpg",
+        "title":"Banca de madera",
+        "category":"banca"
+    },
+    {   "id":4,
+        "imagen":"https://ro-garzon.github.io/assets/banca2.jpg",
+        "title":"banca para exterior",
+        "category":"banca"
+    },
+    {   "id":5,
+        "imagen":"https://ro-garzon.github.io/assets/mesa.jpg",
+        "title":"mesa de madera mazisa",
+        "category":"mesa"
+    },
+    {   "id":6,
+        "imagen":"https://ro-garzon.github.io/assets/modular.jpg",
+        "title":"Mueble para living",
+        "category":"mueble"
+    },
+    {   "id":7,
+        "imagen":"https://ro-garzon.github.io/assets/modular2.jpg",
+        "title":"mueble de melamina",
+        "category":"mueble"
+    },
+    {   "id":8,
+        "imagen":"https://ro-garzon.github.io/assets/mesa2.jpg",
+        "title":"mesa redonda",
+        "category":"mesa"
+    },
+    {   "id":9,
+        "imagen":"https://ro-garzon.github.io/assets/desk2.jpg",
+        "title":"escritorio de placa",
+        "category":"escritorio"
+    }
+   ]
+}
