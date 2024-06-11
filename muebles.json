@@ -2,56 +2,48 @@
     "mesas":[
     {   "id":1,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/mesa.jpg",
-        "title":"mesa de arrime",
-        "category":"mesa"
+        "title":"mesa de arrime"
     },
     {   "id":2,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/mesa2.jpg",
-        "title":"mesa de comedor",
-        "category":"mesa"
+        "title":"mesa de comedor"
+
     }
    ],
    "estanterias":[
     {   "id":1,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/estanteria.jpg",
-        "title":"Estanteria de pino",
-        "category":"estanteria"
+        "title":"Estanteria de pino"
     }
    ],
    "bancas":[
     {   "id":1,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/banca.jpg",
-        "title":"Banca de madera",
-        "category":"banca"
+        "title":"Banca de madera"
     },
     {   "id":2,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/banca2.jpg",
-        "title":"banca para exterior",
-        "category":"banca"
+        "title":"banca para exterior"
     }
    ],
    "muebles de living":[
     {   "id":1,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/modular.jpg",
-        "title":"Mueble para living",
-        "category":"mueble"
+        "title":"Mueble para living"
     },
     {   "id":2,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/modular2.jpg",
-        "title":"mueble de melamina",
-        "category":"mueble"
+        "title":"mueble de melamina"
     }
    ],
    "escritorio":[
     {   "id":1,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/desk.jpg",
-        "title":"Escritorio de melamina",
-        "category":"escritorio escandinavo"
+        "title":"Escritorio de melamina"
     },
     {   "id":2,
         "imagen":"https://ro-garzon.github.io/json-furniture/assets/desk2.jpg",
-        "title":"escritorio de placa",
-        "category":"escritorio con cajones"
+        "title":"escritorio de placa"
     }
    ]
 }
