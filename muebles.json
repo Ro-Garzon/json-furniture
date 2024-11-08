@@ -1,48 +1,132 @@
 [
     {   "id":1,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/mesa.jpg"],
-        "title":"mesa de arrime",
-        "category": "mesa"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a1/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a1/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a1/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/a1/4.jpg", "https://ro-garzon.github.io/json-furniture/assets/a1/5.jpg"],
+        "title":"Amoblamiento completo",
+        "category": "Amoblamiento de cocina"
     },
     {   "id":2,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/estanteria.jpg","https://ro-garzon.github.io/json-furniture/assets/banca.jpg"],
-        "title":"Estanteria de pino",
-        "category": "estanteria"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a2/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/4.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/5.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/6.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/7.jpg", "https://ro-garzon.github.io/json-furniture/assets/a2/8.jpg"],
+        "title":"Isla y amoblamiento",
+        "category": "Amoblamiento de cocina"
     },
     {   "id":3,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/modular2.jpg"],
-        "title":"mueble de melamina",
-        "category": "mueble"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a3/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a3/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a3/3.jpg"],
+        "title":"Alacena",
+        "category": "Amoblamiento de cocina"
     },
     {   "id":4,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/banca.jpg", "https://ro-garzon.github.io/json-furniture/assets/mesa2.jpg"],
-        "title":"Banca de madera",
-        "category": "banca"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a4/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a4/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a4/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/a4/4.jpg"],
+        "title":"Amoblamiento completo",
+        "category": "Amoblamiento de cocina"
     },
     {   "id":5,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/desk2.jpg"],
-        "title":"escritorio de placa",
-        "category": "escritorio"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a5/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a5/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a5/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/a5/4.jpg", "https://ro-garzon.github.io/json-furniture/assets/a5/5.jpg"],
+        "title":"Amoblamiento completo",
+        "category": "Amoblamiento de cocina"
     },
     {   "id":6,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/mesa2.jpg"],
-        "title":"mesa de comedor",
-        "category": "mesa"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a6/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a6/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a6/3.jpg"],
+        "title":"Bajo mesada",
+        "category": "Amoblamiento de cocina"
     },
     {   "id":7,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/modular.jpg"],
-        "title":"Mueble para living",
-        "category": "mueble"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/e1/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/e1/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/e1/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/e1/4.jpg", "https://ro-garzon.github.io/json-furniture/assets/e1/5.jpg"],
+        "title":"Escritorio y repisa",
+        "category": "Escritorio"
     },
     {   "id":8,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/banca2.jpg"],
-        "title":"banca para exterior",
-        "category": "banca"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/e2/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/e2/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/e2/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/e2/4.jpg", "https://ro-garzon.github.io/json-furniture/assets/e2/5.jpg"],
+        "title":"Escritorio doble",
+        "category": "Escritorio"
     },
     {   "id":9,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/desk.jpg"],
-        "title":"Escritorio de melamina",
-        "category": "escritorio"
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/m1/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/m1/2.jpg"],
+        "title":"Mesa con cajón",
+        "category": "Mesa de luz"
+    },
+    {   "id":10,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/m2/1.jpg"],
+        "title":"Mesa de luz",
+        "category": "Mesa de luz"
+    },
+    {   "id":11,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/o1/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/o1/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/o1/3.jpg"],
+        "title":"Organizador de baño",
+        "category": "Organizador"
+    },
+    {   "id":12,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/o2/1.jpg"],
+        "title":"Organizador de cocina",
+        "category": "Organizador"
+    },
+    {   "id":13,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p1/1.jpg"],
+        "title":"Placard esquinero",
+        "category": "Placard"
+    },
+    {   "id":14,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p2/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/p2/2.jpg"],
+        "title":"Placard con barral",
+        "category": "Placard"
+    },
+    {   "id":15,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p3/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/p3/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/p3/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/p3/4.jpg"],
+        "title":"Placard amplio",
+        "category": "Placard"
+    },
+    {   "id":16,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p4/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/p4/2.jpg"],
+        "title":"Placard con barral",
+        "category": "Placard"
+    },
+    {   "id":17,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p5/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/p5/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/p5/3.jpg"],
+        "title":"Placard con barral",
+        "category": "Placard"
+    },
+    {   "id":18,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p6/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/p6/2.jpg"],
+        "title":"Placard completo",
+        "category": "Placard"
+    },
+    {   "id":19,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p7/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/p7/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/p7/3.jpg"],
+        "title":"Placard con baulera",
+        "category": "Placard"
+    },
+    {   "id":20,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p5/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/puerta/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/puerta/3.jpg"],
+        "title":"Puerta con vidrio",
+        "category": "Puerta"
+    },
+    {   "id":21,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/rack/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/rack/2.jpg"],
+        "title":"Rack con led",
+        "category": "Rack"
+    },
+    {   "id":22,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/rack2/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/rack2/2.jpg"],
+        "title":"Rack con estantes",
+        "category": "Rack"
+    },
+    {   "id":23,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/v1/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/v1/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/v1/3.jpg", "https://ro-garzon.github.io/json-furniture/assets/v1/4.jpg", "https://ro-garzon.github.io/json-furniture/assets/v1/5.jpg"],
+        "title":"Vanitory con cajones",
+        "category": "Vanitory"
+    },
+    {   "id":24,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/v2/1.jpg"],
+        "title":"Vanitory",
+        "category": "Vanitory"
+    },
+    {   "id":25,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/v3/1.jpg"],
+        "title":"Vanitory amplio",
+        "category": "Vanitory"
+    },
+    {   "id":26,
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/v4/1.jpg"],
+        "title":"Vanitory",
+        "category": "Vanitory"
     }
-    
 ]
