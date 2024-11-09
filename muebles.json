@@ -10,7 +10,7 @@
         "category": "Amoblamiento de cocina"
     },
     {   "id":3,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a3/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/a3/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a3/3.jpg"],
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/a3/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/a3/1.jpg",  "https://ro-garzon.github.io/json-furniture/assets/a3/3.jpg"],
         "title":"Alacena",
         "category": "Amoblamiento de cocina"
     },
@@ -95,7 +95,7 @@
         "category": "Placard"
     },
     {   "id":20,
-        "imagen":["https://ro-garzon.github.io/json-furniture/assets/p5/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/puerta/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/puerta/3.jpg"],
+        "imagen":["https://ro-garzon.github.io/json-furniture/assets/puerta/1.jpg", "https://ro-garzon.github.io/json-furniture/assets/puerta/2.jpg", "https://ro-garzon.github.io/json-furniture/assets/puerta/3.jpg"],
         "title":"Puerta con vidrio",
         "category": "Puerta"
     },
